@@ -7,9 +7,9 @@ public class Main {
 		SalaryMan sm1 = new SalaryMan();
 		
 		st1.age=23;
-		st1.grade=3;
+		st1.grade=99;
 		st1.job="학생";
-		st1.major="컴공";
+		st1.major="미술";
 		st1.name="김학생";
 		st1.pnum="010-1111-1111";
 		sm1.age=30;
